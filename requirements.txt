@@ -1,0 +1,6 @@
+chainlit
+graphrag
+autogen-agentchat
+autogen-ext[openai]
+rich
+typing_extensions
